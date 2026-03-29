@@ -1,0 +1,11 @@
+{"level":"info","message":"REGISTER","user":"test@example.com"}
+{"level":"info","message":"LOGIN","user":"test@example.com"}
+{"level":"info","message":"REGISTER","user":"mustakim.dev.vts@gmail.com"}
+{"level":"info","message":"LOGIN","user":"mustakim.dev.vts@gmail.com"}
+{"level":"info","message":"REGISTER","user":"test2@example.com"}
+{"level":"info","message":"LOGIN","user":"mustakim.dev.vts@gmail.com"}
+{"level":"info","message":"LOGIN","user":"mustakim.dev.vts@gmail.com"}
+{"level":"info","message":"REGISTER","user":"mustakim@gmail.com"}
+{"level":"info","message":"LOGIN","user":"mustakim@gmail.com"}
+{"level":"info","message":"REGISTER","user":"urvi@gmail.com"}
+{"level":"info","message":"LOGIN","user":"urvi@gmail.com"}

@@ -1,0 +1,7 @@
+
+const r = require("express").Router();
+const c = require("../controllers/auth");
+r.post("/register",c.register);
+r.post("/login",c.login);
+r.post("/refresh",c.refresh);
+module.exports = r;
